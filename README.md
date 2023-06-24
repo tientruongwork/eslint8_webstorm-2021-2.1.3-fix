@@ -11,3 +11,5 @@ This `bin.zip` use to solve the problem of `eslint@^8.0.0` when working with `Je
 2. Copy and replace folder `bin` in `WebStorm 2021.1.3\plugins\JavaScriptLanguage\languageService\eslint` with extracted `bin` folder
 3. Restart Webstorm
 4. Enjoy !
+
+## Give me a star if you like it :P
